@@ -1,0 +1,19 @@
+.logo {
+  width: 100%;
+  text-align: center;
+}
+.logo img {
+  width: 300px;
+}
+.logo .search .search-input {
+  margin-top: 20px;
+  height: 35px;
+  width: 40%;
+  border: 1px solid #3385ff;
+}
+.logo .search .search-btn {
+  display: inline-block;
+  height: 35px;
+  width: 80px;
+  border: 1px solid #3385ff;
+}
